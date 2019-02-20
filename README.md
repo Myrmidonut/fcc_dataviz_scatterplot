@@ -9,6 +9,8 @@ This scatterplot is made with [D3](https://d3js.org/).
 
 This project is part of freeCodeCamps Data Visualization certificate.
 
+***
+
 ## Project Requirements
 * There is a title element that has a corresponding id="title".
 * There is an x-axis that has a corresponding id="x-axis".
@@ -26,12 +28,18 @@ This project is part of freeCodeCamps Data Visualization certificate.
 * Moving the mouse over an area shows a tooltip with a corresponding id="tooltip" which displays more information about the area.
 * The tooltip should have a data-year property that corresponds to the data-xvalue of the active area.
 
+***
+
 ## Project Data
 Alpe d'Huez ascents:  
 https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json
 
+***
+
 ## Final Project
 https://myrmidonut.github.io/fcc_dataviz_scatterplot
+
+***
 
 ## Preview Images
 ### Main Screen:
